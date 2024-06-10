@@ -5,7 +5,6 @@ import easygui
 import datetime
 import subprocess
 import traceback
-import traceback
 from gencodes import *
 from cryptomodule import *
 from xorotp import *
