@@ -1,3 +1,4 @@
 pycryptodome>=3.9.9
 fpdf>=1.7.2
 easygui>=0.98.2
+npyscreen==4.10.5
